@@ -42,3 +42,10 @@ app-drawing-area {
 * {
     user-select: none;
 }
+
+.flexRowAlignCenterCenter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
